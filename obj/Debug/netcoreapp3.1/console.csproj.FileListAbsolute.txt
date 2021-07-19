@@ -1,0 +1,13 @@
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.exe
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.deps.json
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.dll
+C:\Epiroc\Phz\Projects\repos\console\bin\Debug\netcoreapp3.1\console.pdb
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.csprojAssemblyReference.cache
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.dll
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.pdb
+C:\Epiroc\Phz\Projects\repos\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache
